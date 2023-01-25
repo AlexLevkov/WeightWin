@@ -19,7 +19,8 @@ app.get('/**', (req, res) => { // catch all routes handler
 })
 
 // connection to DB
-mongoose.connect(process.env.MONG_URI)
+const MONG_URI='mongodb+srv://Alex:1234@weightwin.zafck76.mongodb.net/?retryWrites=true&w=majority'
+mongoose.connect(MONG_URI)
 .then(()=>{
   app.listen(process.env.PORT,()=>{
     console.log(`Connected to DB & listening on port ${process.env.PORT}`)
