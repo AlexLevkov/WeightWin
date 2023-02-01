@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.45ad89cb.css",
-    "main.js": "/static/js/main.5c559cb1.js",
+    "main.css": "/static/css/main.61d7bd67.css",
+    "main.js": "/static/js/main.d14da6b6.js",
     "static/media/sport1.png": "/static/media/sport1.8f834162210597169736.png",
     "static/media/food1.jpg": "/static/media/food1.4435653e5eaeb65d69a3.jpg",
     "static/media/health3.jpg": "/static/media/health3.7703c74d00adc7f6d89f.jpg",
@@ -12,18 +12,18 @@
     "static/media/health2.jpg": "/static/media/health2.9dc2d1858070d2120cd4.jpg",
     "static/media/food2.jpg": "/static/media/food2.5a55520027b8ec1acf98.jpg",
     "static/media/main-bg.png": "/static/media/main-bg.6a9ec6bb18d5ca32f51d.png",
-    "static/media/team.jpg": "/static/media/team.582874b06a6ab6b95c41.jpg",
+    "static/media/team.jpg": "/static/media/team.2ee91ec11bc8cfb21d14.jpg",
     "static/media/Hero_image.svg": "/static/media/Hero_image.84570f851f52bbdbf324ae846b201067.svg",
     "static/media/muscle.png": "/static/media/muscle.edd91e8cd65a40e34663.png",
-    "static/media/warming.png": "/static/media/warming.aebb27f78b057b796195.png",
-    "static/media/dumbbell.png": "/static/media/dumbbell.f119477aac3156456572.png",
+    "static/media/warming.png": "/static/media/warming.5fd4b24d0f0399eff66b.png",
+    "static/media/dumbbell.png": "/static/media/dumbbell.68dab6963f289449e995.png",
     "static/media/stas.svg": "/static/media/stas.412171e83d4996c6bccb902951319340.svg",
     "index.html": "/index.html",
-    "main.45ad89cb.css.map": "/static/css/main.45ad89cb.css.map",
-    "main.5c559cb1.js.map": "/static/js/main.5c559cb1.js.map"
+    "main.61d7bd67.css.map": "/static/css/main.61d7bd67.css.map",
+    "main.d14da6b6.js.map": "/static/js/main.d14da6b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.45ad89cb.css",
-    "static/js/main.5c559cb1.js"
+    "static/css/main.61d7bd67.css",
+    "static/js/main.d14da6b6.js"
   ]
 }
