@@ -14,7 +14,7 @@ app.use(express.json()) // the payload from the req will be passed as JSON to th
 app.use('/api/daily',dailyGoalsRoutes) // handel daily goals routes
 
 app.use(express.static('public')) // serving the public folder to the client
-app.get('/**', (req, res) => { // catch all routes handler
+app.get('*', (req, res) => { // catch all routes handler
   res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
 
