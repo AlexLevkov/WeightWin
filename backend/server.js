@@ -1,5 +1,5 @@
 require('dotenv').config()
-
+MONG_URI='mongodb+srv://Alex:1234@weightwin.zafck76.mongodb.net/?retryWrites=true&w=majority'
 const express = require('express') 
 const app = express()
 const cors = require('cors')
